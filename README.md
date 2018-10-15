@@ -7,3 +7,10 @@ Mode Pembahasan:<br>
 `Kamis` - Jum'at (Pemrograman Java, Website & Mobile Android Development)<br>
 
 Posted by `Bariscode Indonesia Tech.`
+
+# Design Development Network
+Topologi dibawah adalah sebagai gambaran seperti apa development lifecycle dalam pengembangan dan pemanfaatan resource aplikasi dengan jaringan dan server
+
+<img src="https://github.com/fightercode/SEnSC-Educator/blob/master/networking-basic.jpg"/>
+
+Copyright 2018 Asep Septiadi. All right reserved.
